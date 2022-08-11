@@ -4,12 +4,12 @@ public class InputNumbers {
 
 	public static void main(String[] args) {
 		// Get input from keyboard
-		
+		// taking input from Scanner
 		Scanner s = new Scanner(System.in);
 		System.out.println("Please input a number");
 		int input = s.nextInt();
 		
-		//System.out.print(input);
+		 //System.out.print(input);
 		
 		// 1) check if positive or negative number
 		
