@@ -20,6 +20,7 @@ public class Lecture4Example {
 		if(num1 == 0 || num2 == 0) {
 			System.out.println("The product is zero");
 		}
+		//if non-zero
 		else {
 			if((num1 > 0 && num2 > 0)||(num1 < 0 && num2 < 0)) {
 				System.out.println("The product is positive");
