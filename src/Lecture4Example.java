@@ -21,6 +21,8 @@ public class Lecture4Example {
 			System.out.println("The product is zero");
 		}
 		//if non-zero
+		
+		//i have made a change
 		else {
 			if((num1 > 0 && num2 > 0)||(num1 < 0 && num2 < 0)) {
 				System.out.println("The product is positive");
