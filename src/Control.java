@@ -5,7 +5,7 @@ public class Control {
 	public static void main(String[] args) {
 		// Take an input from the user
 		// Print the multiplication table of the number
-		// 2 x 1 = 2 2 x 2 =4 2x3 =6 ... 2 x 10 = 20
+		// 2 x 1 = 2 2 x 2 =4 2x3 =6 ... 2 x 10 = 20 .
 		
 		Scanner s = new Scanner(System.in);
 		System.out.println("Please input a number: ");
