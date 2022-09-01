@@ -1,0 +1,5 @@
+reads a string (example, “my text”)
+Invert the string (“txet ym”)
+Print the inverted string
+Print “Palindrome” if the string is a palindrome 
+Original is equal to inverted
